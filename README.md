@@ -1,2 +1,2 @@
 # c-poo
-💾 Object Oriented Exercises in C#
+Object-oriented exercises in C# developed during the third semester of the Computer Engineering Course.
