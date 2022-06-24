@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/bin/Debug/net6.0/02
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/bin/Debug/net6.0/02.deps.json
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/bin/Debug/net6.0/02.runtimeconfig.json
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/bin/Debug/net6.0/02.dll
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/bin/Debug/net6.0/02.pdb
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.AssemblyInfo.cs
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.dll
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/refint/02.dll
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.pdb
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/02.genruntimeconfig.cache
+/Users/iscoutto/Documents/c-poo/c-poo/Exercises/02_encapsulamento/obj/Debug/net6.0/ref/02.dll
