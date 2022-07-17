@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ADBE1B52-3E0D-4449-8E77-1F5C8AC33A02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex01_PilhaEncadeada/Program.cs">
+    <Files>
+      <File FileName="Ex01_PilhaEncadeada/Program.cs" Line="23" Column="87" />
+      <File FileName="Ex01_PilhaEncadeada/Nodo.cs" />
+      <File FileName="Ex01_PilhaEncadeada/Pilha.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex01_PilhaEncadeada" expanded="True">
+            <Node name="Ex01_PilhaEncadeada" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex01__PilhaEncadeada PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

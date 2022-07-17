@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C210E51A-B15F-479E-AD69-6A069993E777}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PilhaEstatica/Pilha.cs">
+    <Files>
+      <File FileName="PilhaEstatica/Program.cs" Line="19" Column="83" />
+      <File FileName="PilhaEstatica/Pilha.cs" Line="52" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PilhaEstatica" expanded="True">
+            <Node name="PilhaEstatica" expanded="True">
+              <Node name="Pilha.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PilhaEstatica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/bin/Debug/net5.0/Exercicio12_Listas.deps.json
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/bin/Debug/net5.0/Exercicio12_Listas.runtimeconfig.json
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/bin/Debug/net5.0/Exercicio12_Listas.runtimeconfig.dev.json
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/bin/Debug/net5.0/Exercicio12_Listas.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/bin/Debug/net5.0/ref/Exercicio12_Listas.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/bin/Debug/net5.0/Exercicio12_Listas.pdb
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.AssemblyInfo.cs
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/ref/Exercicio12_Listas.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.pdb
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio12_Listas/Exercicio12_Listas/obj/Debug/net5.0/Exercicio12_Listas.genruntimeconfig.cache

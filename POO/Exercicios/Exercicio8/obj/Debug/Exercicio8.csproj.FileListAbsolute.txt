@@ -1,0 +1,14 @@
+C:/Users/081210006/Documents/Exercicio8/bin/Debug/Exercicio8.exe.config
+C:/Users/081210006/Documents/Exercicio8/bin/Debug/Exercicio8.exe
+C:/Users/081210006/Documents/Exercicio8/bin/Debug/Exercicio8.pdb
+C:/Users/081210006/Documents/Exercicio8/obj/Debug/Exercicio8.csprojAssemblyReference.cache
+C:/Users/081210006/Documents/Exercicio8/obj/Debug/Exercicio8.csproj.CoreCompileInputs.cache
+C:/Users/081210006/Documents/Exercicio8/obj/Debug/Exercicio8.exe
+C:/Users/081210006/Documents/Exercicio8/obj/Debug/Exercicio8.pdb
+/Users/iscoutto/Downloads/Exercicio8/bin/Debug/Exercicio8.exe.config
+/Users/iscoutto/Downloads/Exercicio8/bin/Debug/Exercicio8.exe
+/Users/iscoutto/Downloads/Exercicio8/bin/Debug/Exercicio8.pdb
+/Users/iscoutto/Downloads/Exercicio8/obj/Debug/Exercicio8.csproj.AssemblyReference.cache
+/Users/iscoutto/Downloads/Exercicio8/obj/Debug/Exercicio8.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Downloads/Exercicio8/obj/Debug/Exercicio8.exe
+/Users/iscoutto/Downloads/Exercicio8/obj/Debug/Exercicio8.pdb

@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/bin/Debug/net5.0/Exercicio2_Filas.deps.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/bin/Debug/net5.0/Exercicio2_Filas.runtimeconfig.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/bin/Debug/net5.0/Exercicio2_Filas.runtimeconfig.dev.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/bin/Debug/net5.0/Exercicio2_Filas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/bin/Debug/net5.0/ref/Exercicio2_Filas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/bin/Debug/net5.0/Exercicio2_Filas.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.AssemblyInfo.cs
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/ref/Exercicio2_Filas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Filas/Exercicio2_Filas/obj/Debug/net5.0/Exercicio2_Filas.genruntimeconfig.cache

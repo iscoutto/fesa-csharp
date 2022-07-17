@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.AssemblyInfo.cs
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/bin/Debug/net5.0/FilaEstaticaCircular.deps.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/bin/Debug/net5.0/FilaEstaticaCircular.runtimeconfig.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/bin/Debug/net5.0/FilaEstaticaCircular.runtimeconfig.dev.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/bin/Debug/net5.0/FilaEstaticaCircular.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/bin/Debug/net5.0/ref/FilaEstaticaCircular.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/bin/Debug/net5.0/FilaEstaticaCircular.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/ref/FilaEstaticaCircular.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/FilaEstaticaCircular/FilaEstaticaCircular/obj/Debug/net5.0/FilaEstaticaCircular.genruntimeconfig.cache

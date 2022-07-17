@@ -1,0 +1,17 @@
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\bin\Debug\net6.0-windows\Ex02_ListaEncadeada.exe
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\bin\Debug\net6.0-windows\Ex02_ListaEncadeada.deps.json
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\bin\Debug\net6.0-windows\Ex02_ListaEncadeada.runtimeconfig.json
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\bin\Debug\net6.0-windows\Ex02_ListaEncadeada.dll
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\bin\Debug\net6.0-windows\Ex02_ListaEncadeada.pdb
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.Form1.resources
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.csproj.GenerateResource.cache
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.dll
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\refint\Ex02_ListaEncadeada.dll
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.pdb
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\Ex02_ListaEncadeada.genruntimeconfig.cache
+C:\Users\isabe\OneDrive\Documentos\Ex02_ListaEncadeada\obj\Debug\net6.0-windows\ref\Ex02_ListaEncadeada.dll

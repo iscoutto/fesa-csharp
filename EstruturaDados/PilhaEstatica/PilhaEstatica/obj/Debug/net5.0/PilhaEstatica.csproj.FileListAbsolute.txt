@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/bin/Debug/net5.0/PilhaEstatica.deps.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/bin/Debug/net5.0/PilhaEstatica.runtimeconfig.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/bin/Debug/net5.0/PilhaEstatica.runtimeconfig.dev.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/bin/Debug/net5.0/PilhaEstatica.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/bin/Debug/net5.0/ref/PilhaEstatica.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/bin/Debug/net5.0/PilhaEstatica.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.AssemblyInfo.cs
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/ref/PilhaEstatica.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/PilhaEstatica/PilhaEstatica/obj/Debug/net5.0/PilhaEstatica.genruntimeconfig.cache
