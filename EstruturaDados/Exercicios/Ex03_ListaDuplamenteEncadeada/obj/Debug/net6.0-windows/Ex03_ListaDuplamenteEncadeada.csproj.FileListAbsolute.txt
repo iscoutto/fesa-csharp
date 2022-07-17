@@ -1,7 +1,0 @@
-C:\Users\isabe\OneDrive\Documentos\Ex03_ListaDuplamenteEncadeada\obj\Debug\net6.0-windows\Ex03_ListaDuplamenteEncadeada.csproj.AssemblyReference.cache
-C:\Users\isabe\OneDrive\Documentos\Ex03_ListaDuplamenteEncadeada\obj\Debug\net6.0-windows\ListaDinamica.Form1.resources
-C:\Users\isabe\OneDrive\Documentos\Ex03_ListaDuplamenteEncadeada\obj\Debug\net6.0-windows\Ex03_ListaDuplamenteEncadeada.csproj.GenerateResource.cache
-C:\Users\isabe\OneDrive\Documentos\Ex03_ListaDuplamenteEncadeada\obj\Debug\net6.0-windows\Ex03_ListaDuplamenteEncadeada.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\isabe\OneDrive\Documentos\Ex03_ListaDuplamenteEncadeada\obj\Debug\net6.0-windows\Ex03_ListaDuplamenteEncadeada.AssemblyInfoInputs.cache
-C:\Users\isabe\OneDrive\Documentos\Ex03_ListaDuplamenteEncadeada\obj\Debug\net6.0-windows\Ex03_ListaDuplamenteEncadeada.AssemblyInfo.cs
-C:\Users\isabe\OneDrive\Documentos\Ex03_ListaDuplamenteEncadeada\obj\Debug\net6.0-windows\Ex03_ListaDuplamenteEncadeada.csproj.CoreCompileInputs.cache
