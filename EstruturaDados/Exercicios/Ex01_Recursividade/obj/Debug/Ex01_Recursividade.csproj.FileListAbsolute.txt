@@ -1,8 +1,0 @@
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\bin\Debug\Ex01_Recursividade.exe.config
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\bin\Debug\Ex01_Recursividade.exe
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\bin\Debug\Ex01_Recursividade.pdb
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\obj\Debug\Ex01_Recursividade.csproj.AssemblyReference.cache
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\obj\Debug\Ex01_Recursividade.csproj.SuggestedBindingRedirects.cache
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\obj\Debug\Ex01_Recursividade.csproj.CoreCompileInputs.cache
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\obj\Debug\Ex01_Recursividade.exe
-C:\Users\isabe\OneDrive\Documentos\Ex01_Recursividade\obj\Debug\Ex01_Recursividade.pdb
