@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FC47A405-117A-435B-80B8-D9ED353587C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AgendaTelefonica/Contato.cs">
+    <Files>
+      <File FileName="AgendaTelefonica/Program.cs" Line="47" Column="34" />
+      <File FileName="AgendaTelefonica/Lista.cs" Line="1" Column="14" />
+      <File FileName="AgendaTelefonica/Contato.cs" Line="31" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AgendaTelefonica" expanded="True">
+            <Node name="AgendaTelefonica" expanded="True">
+              <Node name="Contato.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AgendaTelefonica PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

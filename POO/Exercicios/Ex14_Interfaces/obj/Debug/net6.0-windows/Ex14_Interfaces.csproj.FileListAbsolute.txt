@@ -1,0 +1,8 @@
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\Ex14_Interfaces.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\EX_13.Form1.resources
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\Ex14_Interfaces.Properties.Resources.resources
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\Ex14_Interfaces.csproj.GenerateResource.cache
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\Ex14_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\Ex14_Interfaces.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\Ex14_Interfaces.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Documentos\Ex14_Interfaces\obj\Debug\net6.0-windows\Ex14_Interfaces.csproj.CoreCompileInputs.cache

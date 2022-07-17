@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbH2GVwNCK2bOJEoz/14N8T32uooPNppwhGWfYsUIMpIPFFAc/QKpEMLBvfE8s16Z53nnd4m2nrrfb2PLaTeVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isabe\\OneDrive\\Documentos\\Ex18\\Ex18.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isabe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

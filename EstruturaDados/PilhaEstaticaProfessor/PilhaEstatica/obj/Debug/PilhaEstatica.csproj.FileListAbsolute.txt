@@ -1,0 +1,7 @@
+C:\AulaFTT\2022-S1\EDA\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe.config
+C:\AulaFTT\2022-S1\EDA\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.exe
+C:\AulaFTT\2022-S1\EDA\PilhaEstatica\PilhaEstatica\bin\Debug\PilhaEstatica.pdb
+C:\AulaFTT\2022-S1\EDA\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csproj.AssemblyReference.cache
+C:\AulaFTT\2022-S1\EDA\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.csproj.CoreCompileInputs.cache
+C:\AulaFTT\2022-S1\EDA\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.exe
+C:\AulaFTT\2022-S1\EDA\PilhaEstatica\PilhaEstatica\obj\Debug\PilhaEstatica.pdb

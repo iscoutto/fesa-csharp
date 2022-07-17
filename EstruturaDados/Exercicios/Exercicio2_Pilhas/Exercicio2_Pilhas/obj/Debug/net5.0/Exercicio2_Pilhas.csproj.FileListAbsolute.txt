@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/bin/Debug/net5.0/Exercicio2_Pilhas.deps.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/bin/Debug/net5.0/Exercicio2_Pilhas.runtimeconfig.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/bin/Debug/net5.0/Exercicio2_Pilhas.runtimeconfig.dev.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/bin/Debug/net5.0/Exercicio2_Pilhas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/bin/Debug/net5.0/ref/Exercicio2_Pilhas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/bin/Debug/net5.0/Exercicio2_Pilhas.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.AssemblyInfo.cs
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/ref/Exercicio2_Pilhas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/Exercicio2_Pilhas/Exercicio2_Pilhas/obj/Debug/net5.0/Exercicio2_Pilhas.genruntimeconfig.cache

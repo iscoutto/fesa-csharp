@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0E4EC5B2-DB65-4022-BAC5-7403A2C7EE7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex02_FilaEncadeada/Program.cs">
+    <Files>
+      <File FileName="Ex02_FilaEncadeada/Program.cs" Line="46" Column="54" />
+      <File FileName="Ex02_FilaEncadeada/Fila.cs" Line="55" Column="2" />
+      <File FileName="Ex02_FilaEncadeada/Nodo.cs" Line="7" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex02_FilaEncadeada" expanded="True">
+            <Node name="Ex02_FilaEncadeada" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex02__FilaEncadeada PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

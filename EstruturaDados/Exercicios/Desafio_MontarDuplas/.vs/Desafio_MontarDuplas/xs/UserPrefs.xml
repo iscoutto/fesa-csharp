@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7970C4A7-2BBD-441F-9EAC-862547BDB675}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Desafio_MontarDuplas/Program.cs">
+    <Files>
+      <File FileName="Desafio_MontarDuplas/Program.cs" Line="107" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Desafio_MontarDuplas" expanded="True">
+            <Node name="Desafio_MontarDuplas" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Desafio__MontarDuplas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/Program.cs" relfile="Desafio_MontarDuplas/Program.cs" line="112" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

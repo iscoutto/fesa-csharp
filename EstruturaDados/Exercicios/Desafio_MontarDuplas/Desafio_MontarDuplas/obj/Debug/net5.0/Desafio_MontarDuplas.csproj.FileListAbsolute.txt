@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/bin/Debug/net5.0/Desafio_MontarDuplas.deps.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/bin/Debug/net5.0/Desafio_MontarDuplas.runtimeconfig.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/bin/Debug/net5.0/Desafio_MontarDuplas.runtimeconfig.dev.json
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/bin/Debug/net5.0/Desafio_MontarDuplas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/bin/Debug/net5.0/ref/Desafio_MontarDuplas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/bin/Debug/net5.0/Desafio_MontarDuplas.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.AssemblyInfo.cs
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/ref/Desafio_MontarDuplas.dll
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.pdb
+/Users/iscoutto/Documents/EC3/EstruturaDados/Exercicios/02-Bimestre/Desafio_MontarDuplas/Desafio_MontarDuplas/obj/Debug/net5.0/Desafio_MontarDuplas.genruntimeconfig.cache

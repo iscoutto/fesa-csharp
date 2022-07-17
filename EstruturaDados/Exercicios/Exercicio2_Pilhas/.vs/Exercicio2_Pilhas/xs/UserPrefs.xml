@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6BC23D47-A890-4D0E-9F46-86F3C51AE291}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio2_Pilhas/Pilha.cs">
+    <Files>
+      <File FileName="Exercicio2_Pilhas/Program.cs" Line="1" Column="1" />
+      <File FileName="Exercicio2_Pilhas/Pilha.cs" Line="7" Column="67" />
+      <File FileName="Exercicio2_Pilhas/Funcionario.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercicio2_Pilhas" expanded="True">
+            <Node name="Exercicio2_Pilhas" expanded="True">
+              <Node name="Pilha.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercicio2__Pilhas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

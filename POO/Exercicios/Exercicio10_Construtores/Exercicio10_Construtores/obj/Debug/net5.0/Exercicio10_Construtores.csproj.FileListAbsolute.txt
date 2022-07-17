@@ -1,0 +1,15 @@
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/bin/Debug/net5.0/Exercicio10_Construtores.deps.json
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/bin/Debug/net5.0/Exercicio10_Construtores.runtimeconfig.json
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/bin/Debug/net5.0/Exercicio10_Construtores.runtimeconfig.dev.json
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/bin/Debug/net5.0/Exercicio10_Construtores.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/bin/Debug/net5.0/ref/Exercicio10_Construtores.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/bin/Debug/net5.0/Exercicio10_Construtores.pdb
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.csproj.AssemblyReference.cache
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.AssemblyInfoInputs.cache
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.AssemblyInfo.cs
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.csproj.CoreCompileInputs.cache
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/ref/Exercicio10_Construtores.dll
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.pdb
+/Users/iscoutto/Documents/EC3/POO/Exercicios/Exercicio10_Construtores/Exercicio10_Construtores/obj/Debug/net5.0/Exercicio10_Construtores.genruntimeconfig.cache

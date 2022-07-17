@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{722803D1-283F-464E-89E8-4333F0850C0E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio1_Listas/Lista.cs">
+    <Files>
+      <File FileName="Exercicio1_Listas/Program.cs" Line="1" Column="1" />
+      <File FileName="Exercicio1_Listas/Pilha.cs" Line="1" Column="1" />
+      <File FileName="Exercicio1_Listas/Lista.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercicio1_Listas" expanded="True">
+            <Node name="Exercicio1_Listas" expanded="True">
+              <Node name="Lista.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exercicio1__Listas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
